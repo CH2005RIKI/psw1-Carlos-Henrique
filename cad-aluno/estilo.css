@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.all{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #576197;
+    height: 90vh;
+    width: 100%;
+}
+.pessoal{
+    background-color: #787a9c ;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    width: 60vh;
+    height: 300px;
+    border-radius: 20px;
+}
+.btn{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
